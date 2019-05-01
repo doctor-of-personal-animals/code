@@ -8,7 +8,7 @@
     <packaging>pom</packaging>
 
     <name>doctor.of.personal.animals</name>
-    <url>https://github.com/362460453/doctor-of-personal-animals.git</url>
+    <url>https://github.com/doctor-of-personal-animals/dopp.git</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
