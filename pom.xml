@@ -19,8 +19,7 @@
 
     <modules>
         <module>eureka</module>
-        <module>user-service</module>
-        <module>login-service</module>
+
 
     </modules>
 
