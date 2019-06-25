@@ -1,4 +1,4 @@
-package com.dopa.animal;
+package com.dopa.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

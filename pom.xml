@@ -20,6 +20,8 @@
     <modules>
         <module>eureka</module>
         <module>user-service</module>
+        <module>config</module>
+        <module>gateway</module>
 
 
     </modules>
